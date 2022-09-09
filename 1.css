@@ -1,0 +1,47 @@
+.grid{
+    background-image: url(https://bit.ly/3B5ZB8n);
+    background-size: 200px;
+    background-position-y: bottom;
+    
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid rgb(13, 144, 231) 3px;
+    margin-top: 0px
+    
+}
+.block{
+    width: 100px;
+    height: 20px;
+   background-image: url(/F959BED8-1035-461E-AF0F-A4947C85F5BC_4_5005_c.jpeg);
+   background-size: 20px;
+    position: absolute;
+}
+.user{
+    width: 100px;
+    height: 20px;
+    background-color:rgb(7, 121, 252) ;
+    position: absolute;
+    border-radius: 5px;
+}
+.ball{
+    
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+   
+    background-image: url(/F959BED8-1035-461E-AF0F-A4947C85F5BC_4_5005_c.jpeg);
+    background-size: 22px;
+    position: absolute;
+    background-repeat: no-repeat;
+    
+    
+}
+.dora{
+    width: 300px;
+    height: 200px;
+}
+.main{
+    display: inline-flex;
+}
